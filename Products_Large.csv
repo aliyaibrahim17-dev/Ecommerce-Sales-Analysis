@@ -1,0 +1,52 @@
+ProductID,ProductName,Category,Price,UnitCost
+200,Data Science Handbook,Books,89,62.3
+201,Wireless Noise-Canceling Headphones,Electronics,226,158.2
+202,Python Programming Guide,Books,494,345.8
+203,Robotic Vacuum Cleaner,Home Appliances,160,112
+204,Financial Analysis Essentials,Books,479,335.3
+205,Digital Air Fryer 5L,Home Appliances,140,98
+206,Business Strategy 101,Books,198,138.6
+207,Machine Learning Fundamentals,Books,406,284.2
+208,Compact Espresso Machine,Home Appliances,247,172.9
+209,Stainless Steel Electric Kettle,Home Appliances,345,241.5
+210,Leather Laptop Sleeve 15-inch,Accessories,124,86.8
+211,Smart Bluetooth Speaker,Electronics,98,68.6
+212,Anti-Theft Travel Backpack,Accessories,67,46.9
+213,HD LED Monitor 27-inch,Electronics,224,156.8
+214,Smart Air Purifier,Home Appliances,287,200.9
+215,Blue Light Blocking Glasses,Accessories,334,233.8
+216,Countertop Blender,Home Appliances,293,205.1
+217,Digital Marketing Basics,Books,367,256.9
+218,Minimalist Leather Wallet,Accessories,487,340.9
+219,Adjustable Aluminum Phone Stand,Accessories,448,313.6
+220,Ergonomic Wireless Mouse,Electronics,472,330.4
+221,Mechanical Gaming Keyboard,Electronics,292,204.4
+222,Portable External SSD 1TB,Electronics,191,133.7
+223,USB-C Multi-Port Hub,Electronics,335,234.5
+224,4K Web Camera,Electronics,428,299.6
+225,E-Commerce Principles,Books,466,326.2
+226,Waterproof Sports Duffel Bag,Accessories,179,125.3
+227,Infrared Microwave Oven,Home Appliances,221,154.7
+228,Convection Bread Maker,Home Appliances,438,306.6
+229,Smartwatch Fitness Tracker,Electronics,294,205.8
+230,Product Management Handbook,Books,323,226.1
+231,Garment Handheld Steamer,Home Appliances,82,57.4
+232,Wireless Charging Pad,Electronics,291,203.7
+233,Supply Chain Management,Books,383,268.1
+234,Statistics for Data Analysis,Books,390,273
+235,Electric Pressure Cooker,Home Appliances,367,256.9
+236,Universal Travel Power Adapter,Accessories,350,245
+237,Keycap Mechanical Puller Set,Accessories,190,133
+238,UX Design Practices,Books,219,153.3
+239,Multi-Speed Stand Mixer,Home Appliances,256,179.2
+240,Cable Organizer Travel Case,Accessories,377,263.9
+241,Noise-Isolating Earbuds,Electronics,133,93.1
+242,Bluetooth Soundbar,Electronics,440,308
+243,Silicone Desk Mat,Accessories,258,180.6
+244,Stainless Steel Water Bottle,Accessories,166,116.2
+245,Neoprene Mouse Pad,Accessories,89,62.3
+246,Programmable Drip Coffee Maker,Home Appliances,229,160.3
+247,Portable Power Bank 20000mAh,Electronics,57,39.9
+248,Corporate Finance Guide,Books,360,252
+249,Compact Travel Umbrella,Accessories,360,252
+250,Wireless Earbuds Case,Accessories,200,140
